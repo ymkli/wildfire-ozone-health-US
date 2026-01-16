@@ -3,7 +3,7 @@ Replication materials for Li et al. (2026) 'Growing Impacts of Fire Smoke on Ozo
 
 The materials in this repository allow users to reproduce the main results and figures of the paper.
 
-If you have questions or suggestions, please contact Yangmingkai Li at yangmingkai.li@stonybrook.edu.
+If you have questions or suggestions, please contact Yangmingkai Li at yangmingkai.li@stonybrook.edu or Minghao Qiu at minghao.qiu@stonybrook.edu
 
 ## Organization of repository
 - Scripts/figures: scripts for producing the figures.
